@@ -44,9 +44,6 @@ export default class HomeScreen extends React.Component {
             <Text style={styles.getStartedText}>
               Для получения списка сериалов, пожалуйста, выберите необходимый месяц и день.
             </Text>
-            <Text style={styles.getStartedText}>
-              Для получения списка сериалов, пожалуйста, выберите необходимый месяц и день.
-            </Text>
           </View>
 
           <View style={styles.helpContainer}>
